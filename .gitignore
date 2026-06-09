@@ -1,0 +1,16 @@
+# Dados de manifestos / output — nunca commitar (ficam só no browser)
+*.xml
+*.csv
+
+# Ficheiros de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Dependências (caso um dia se adicione build)
+node_modules/
